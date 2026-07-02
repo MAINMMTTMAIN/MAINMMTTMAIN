@@ -28,5 +28,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=MAINMMTTMAIN&theme=black-ice)](https://git.io/streak-stats)
 
 
-## 📫 Contact with Me
+## 📫 Contact Me
 - Email: mhmdmhdyttary@gmail.com
