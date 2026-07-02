@@ -22,6 +22,7 @@ I'm MohammadMahdi.
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)
 
+## 📊 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=MAINMMTTMAIN&theme=black-ice)](https://git.io/streak-stats)
 
 ## 📚 Currently Learning
