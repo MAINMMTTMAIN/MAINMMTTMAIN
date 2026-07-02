@@ -1,6 +1,8 @@
 ## Hi there 👋 I'm MohammadMahdi
 
-
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Hi+there+👋+I'm+MohammadMahdi;An+independent+programmer+who+loves+and+learns+anything+from+technology;Especially+computer&font=Fira+Code&center=true&width=1000&height=60&color=00F58C&vCenter=true&pause=1500&size=28" />
+</p>
 
 ## 💻 Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
