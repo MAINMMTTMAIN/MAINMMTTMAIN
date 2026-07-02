@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm MohammadMahdi
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3500&pause=1500&color=00F58C&center=true&vCenter=true&repeat=true&width=1000&lines=Hi+there+👋+I'm+MohammadMahdi;An+independent+programmer+who+loves+and+learns+anything+from+technology;Especially+computer">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=1500&color=00F58C&center=true&vCenter=true&width=900&lines=Hi+there+👋+I'm+MohammadMahdi;An+independent+programmer+who+loves+and+learns+anything+from+technology;Especially+computer" />
 </p>
 
 ## 💻 Skills
