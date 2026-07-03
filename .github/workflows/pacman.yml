@@ -1,9 +1,9 @@
-name: Generate Snake
+name: Generate Pacman
 
 on:
   schedule: 
-    - cron: "0 */6 * * *"   
-  workflow_dispatch:         
+    - cron: "0 */6 * * *"   # هر ۶ ساعت
+  workflow_dispatch:
 
 jobs:
   build:
@@ -12,14 +12,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        id: snake
+      - name: Generate Pacman
+        uses: Platane/snk@v3   # همون snk ولی با تم pacman
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-pacman.svg
+            dist/github-pacman-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
