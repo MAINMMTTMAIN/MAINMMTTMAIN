@@ -1,29 +1,31 @@
 name: Generate Pacman
 
 on:
-  schedule: 
-    - cron: "0 */6 * * *"   # هر ۶ ساعت
+  schedule:
+    - cron: "0 */6 * * *"
   workflow_dispatch:
+  push:
+    branches: [ main ]
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Generate Pacman
-        uses: Platane/snk@v3   # همون snk ولی با تم pacman
+      - name: Generate Pacman SVGs
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-pacman.svg
             dist/github-pacman-dark.svg?palette=github-dark
 
-      - name: Push to output branch
+      - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          commit_message: Update Pacman animation
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
