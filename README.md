@@ -36,12 +36,12 @@
 ## 📊 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=MAINMMTTMAIN%20&theme=graywhite)](https://git.io/streak-stats)
 
-### GitHub Pacman 🍒
+### Contribution Snake 🐍
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MAINMMTTMAIN/MAINMMTTMAIN/output/github-pacman-dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MAINMMTTMAIN/MAINMMTTMAIN/output/github-pacman.svg?v=2">
-  <img alt="github pacman" src="https://raw.githubusercontent.com/MAINMMTTMAIN/MAINMMTTMAIN/output/github-pacman.svg?v=2">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg">
+  <img alt="github snake" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg">
 </picture>
 
 ## 📫 Contact Me
