@@ -1,0 +1,29 @@
+name: Generate Pacman
+
+on:
+  schedule: 
+    - cron: "0 */6 * * *"   # هر ۶ ساعت
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Pacman
+        uses: Platane/snk@v3   # همون snk ولی با تم pacman
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-pacman.svg
+            dist/github-pacman-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
