@@ -36,13 +36,7 @@
 ## 📊 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=MAINMMTTMAIN%20&theme=graywhite)](https://git.io/streak-stats)
 
-### GitHub Pacman 🍒
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-pacman-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-pacman.svg">
-  <img alt="github pacman" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-pacman.svg">
-</picture>
 
 ## 📫 Contact Me
 - Email: mhmdmhdyttary@gmail.com
