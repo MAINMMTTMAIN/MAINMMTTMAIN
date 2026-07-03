@@ -36,13 +36,7 @@
 ## 📊 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=MAINMMTTMAIN%20&theme=graywhite)](https://git.io/streak-stats)
 
-### Contribution Snake 🐍
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MAINMMTTMAIN/MAINMMTTMAIN/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MAINMMTTMAIN/MAINMMTTMAIN/output/github-snake.svg">
-  <img alt="github snake" src="https://raw.githubusercontent.com/MAINMMTTMAIN/MAINMMTTMAIN/output/github-snake.svg">
-</picture>
 
 ## 📫 Contact Me
 - Email: mhmdmhdyttary@gmail.com
