@@ -1,0 +1,33 @@
+name: Generate Pacman
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate Pacman
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-pacman.svg
+            dist/github-pacman-dark.svg?palette=github-dark
+
+      - name: Deploy
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: Update Pacman
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
