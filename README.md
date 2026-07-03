@@ -39,9 +39,9 @@
 ### GitHub Pacman 🍒
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MAINMMTTMAIN/MAINMMTTMAIN/output/github-pacman-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MAINMMTTMAIN/MAINMMTTMAIN/output/github-pacman.svg">
-  <img alt="github pacman" src="https://raw.githubusercontent.com/MAINMMTTMAIN/MAINMMTTMAIN/output/github-pacman.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MAINMMTTMAIN/MAINMMTTMAIN/output/github-pacman-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MAINMMTTMAIN/MAINMMTTMAIN/output/github-pacman.svg?v=2">
+  <img alt="github pacman" src="https://raw.githubusercontent.com/MAINMMTTMAIN/MAINMMTTMAIN/output/github-pacman.svg?v=2">
 </picture>
 
 ## 📫 Contact Me
