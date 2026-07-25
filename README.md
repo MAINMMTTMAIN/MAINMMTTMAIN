@@ -8,7 +8,7 @@
       alt="Typing SVG"
     />
   </a>
-</p>
+</p> 
  
  
 ## 💻 Skills
