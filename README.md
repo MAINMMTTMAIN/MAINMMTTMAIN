@@ -57,7 +57,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mainmmttmain.github.io/My-Portfolio/">
+  <a href="https://mainmmttmain.github.io/My-Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
