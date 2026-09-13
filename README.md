@@ -57,7 +57,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://youtube.com/@achmazchess?si=YUeXzBgE6jq65ygZ">
+  <a href="https://www.youtube.com/@AchmazChess/shorts">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 
